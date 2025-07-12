@@ -1,3 +1,3 @@
 # sliding screen template
 
-template for future screens involving multiple screens
+template for future projects involving multiple screens
