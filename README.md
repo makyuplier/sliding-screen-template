@@ -1,4 +1,3 @@
 # sliding screen template
-github test
 
-bussin
+template for future screens involving multiple screens
